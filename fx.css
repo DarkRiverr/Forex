@@ -14,7 +14,6 @@ header{
 
 header:hover{
     cursor: pointer;
-    font-weight: bolder;
 }
 
 img{
@@ -140,8 +139,9 @@ div>p{
     margin-left: 40px;
     vertical-align: middle;
     margin-top: 70px;
-    color: cornsilk;
+    color:greenyellow;
     font-weight: bolder;
+    padding: 20px 50px
 }
 
 
@@ -157,7 +157,6 @@ section>p{
     /* margin-top: 20px; */
     margin-left: 40px;
     vertical-align: middle;
-    color:greenyellow;
 }
 
 
